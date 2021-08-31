@@ -1,0 +1,11 @@
+Pour importer:
+
+Ajouter les images aux médias wordpress.
+Importer le json dans la bibliotheque DIVI.
+
+creer le module dans une page: 
+verifier le lien background img url: > lien de l'image de fond dans medias (ordinateur pour le module ordinateur, tablette pour le module tablette).
+
+Dans le module local: dans la balise video, mettre le lien d'une video de la mediatheque.
+
+Dans le module youtube: dans la balise iframe mettre le lien iframe de la video youtube pour le module youtube. Pour le recuperer sur youtube partager > integrer, lien dans src="http/youtube...." .
